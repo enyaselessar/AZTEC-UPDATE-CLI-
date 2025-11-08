@@ -28,6 +28,9 @@ You will see eth public adress and bls adress
 nano ~/.aztec/keystore/key1.json 
 ```
 
+#### FUND YOUR NEW ETH ADRESS WITH MINIMUM 0.2 SEPOLIA ETH 
+
+
 ## 4. APPROVE 200K SPENDING TO JOIN THE NETWORK
 
 ```
